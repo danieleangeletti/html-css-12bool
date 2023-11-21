@@ -33,3 +33,27 @@
 .row:nth-child(7) {
     font-size: 0.5em;
 }
+
+.higher {
+    height: 100px;
+}
+
+.top {
+    align-items: flex-start;
+}
+
+.middle {
+    align-items: center;
+}
+
+.bottom {
+    align-items: flex-end;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+
+.space-between {
+    justify-content: space-between;
+}
